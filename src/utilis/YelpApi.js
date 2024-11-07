@@ -1,5 +1,5 @@
 const YelpKey =
-  "u9IT81SefiRG5dZoGPSuZNJUt6FSgtq96m5E1S5nfx_qlNIfU71SNmYPVdlab-gzVmwDrav6J4XG1N4sznSqT99p9Umty_X2mqZBTkPsi0Uj53AVAjyBtL2c2cDIZnYx";
+  "Upr9vmrGIm4NDhZnhXKoFhqa6Cx7IMP06CIEyNoDkwA04-xb38srgHVsha3npCrd2iOKSab7Pq4ODPBHMk5m7Tl7gsdQd-VL7sf3XQ8TYUTYXDeMWAMrFUYYXq4sZ3Yx";
 
 async function getSearch(searchTerm, location, sortBy) {
   try {
